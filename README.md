@@ -1,4 +1,4 @@
-# Petal
+# ✾ petal
 
 A context-aware memory management system for AI-assisted workflows. Petal helps you capture, organize, and intelligently retrieve information across your projects, making your AI conversations more productive and contextual.
 
